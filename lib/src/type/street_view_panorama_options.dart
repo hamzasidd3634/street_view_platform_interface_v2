@@ -1,5 +1,5 @@
 
-import '../../street_view_platform_interface.dart';
+import '../../street_view_platform_interface_v2.dart';
 
 class StreetViewPanoramaOptions {
   /// Set initialization location by panorama ID.

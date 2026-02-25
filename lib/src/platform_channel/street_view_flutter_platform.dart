@@ -6,7 +6,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/services.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
-import 'package:street_view_platform_interface/street_view_platform_interface.dart';
+import 'package:street_view_platform_interface_v2/street_view_platform_interface_v2.dart';
 
 abstract class StreetViewFlutterPlatform extends PlatformInterface {
   StreetViewFlutterPlatform() : super(token: _token);

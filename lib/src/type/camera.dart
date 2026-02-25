@@ -1,4 +1,4 @@
-import 'package:street_view_platform_interface/street_view_platform_interface.dart';
+import 'package:street_view_platform_interface_v2/street_view_platform_interface_v2.dart';
 
 
 class StreetViewCameraPosition {

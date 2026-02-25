@@ -19,4 +19,4 @@ See https://flutter.dev/go/platform-interface-breaking-changes for a discussion
 on why a less-clean interface is preferable to a breaking change.
 
 [1]: ../flutter_google_street_view
-[2]: lib/street_view_platform_interface.dart
+[2]: lib/street_view_platform_interface_v2.dart

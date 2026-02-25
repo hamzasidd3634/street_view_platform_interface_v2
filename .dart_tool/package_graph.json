@@ -1,11 +1,11 @@
 {
   "roots": [
-    "street_view_platform_interface"
+    "street_view_platform_interface_v2"
   ],
   "packages": [
     {
-      "name": "street_view_platform_interface",
-      "version": "1.0.8",
+      "name": "street_view_platform_interface_v2",
+      "version": "1.0.0",
       "dependencies": [
         "flutter",
         "meta",
